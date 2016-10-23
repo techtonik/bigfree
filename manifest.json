@@ -3,7 +3,9 @@
 
   "name": "BigFree",
   "description": "Show how much of free 1TB BigQuery limit is left",
-  "version": "1.3",
+  "version": "1.4",
+
+  "icons": { "48": "bigquery48.png" },
 
   "background": {
     "scripts": ["bigquery.js"],
