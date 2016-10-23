@@ -3,12 +3,13 @@
 
   "name": "BigFree",
   "description": "Show how much of free 1TB BigQuery limit is left",
-  "version": "1.1",
+  "version": "1.2",
 
   "browser_action": {
     "default_icon": {
       "19": "bigquery19.png",
       "38": "bigquery38.png"
-    }
+    },
+    "default_title": "Free 1TB limit of BigQuery"
   }
 }
